@@ -56,7 +56,7 @@
 // Mitzi's name
 console.log(mitzi.first_name);
 // Kennan's ID
-console.log(mitzi.id);
+console.log(kennan.id);
 // Keven's email
 console.log(keven.email);
 // Gannie's name
